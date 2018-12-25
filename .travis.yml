@@ -12,6 +12,7 @@ addons:
             - g++-4.8
 install:
     - npm install -g gatsby-cli
+    - yarn install &&  cd ui && yarn install
 script:
     - yarn static:build
 cache:
