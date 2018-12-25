@@ -25,7 +25,7 @@ deploy:
     skip-cleanup: true
     local_dir: ui/public/
     github-token: $GITHUB_TOKEN
-    repo: akramus/home
+    repo: akramus/akramus.github.io
     keep-history: true
     target-branch: master
     on:
