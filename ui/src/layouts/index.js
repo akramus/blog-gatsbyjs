@@ -44,8 +44,8 @@ export default class extends Component {
         <section id="header">
           <header>
             <span className="image avatar"><img src={avatar} alt="" /></span>
-            <h1 id="logo"><Link to="/">Akram DHAOUI</Link></h1>
-            <p>Consultant indépendant<br />
+            <h1 id="logo"><Link to="/">Akram Dhaoui</Link></h1>
+            <p>Consultant, Architecte technique  & Développeur <br />
               Java | JEE | React | Spark | Kafka
         </p>
           </header>
@@ -59,6 +59,8 @@ export default class extends Component {
             <ul className="icons">
               <li><a href="https://github.com/akramus" className="icon fa-github"><span className="label">Github</span></a></li>
               <li><a href="https://www.linkedin.com/in/adhaoui/" className="icon fa-linkedin"><span className="label">Linkedin</span></a></li>
+              <li><a href="https://twitter.com/dhaouiakram" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
+
             </ul>
           </footer>
         </section>
@@ -69,7 +71,7 @@ export default class extends Component {
           <section id="footer">
             <div className="container">
               <ul className="copyright">
-                <li>&copy; Akram DHAOUI. All rights reserved.</li><li>Theme: <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>&copy; Akram Dhaoui.</li><li>Theme: <a href="http://html5up.net">HTML5 UP</a></li><li>Inspired: <a href="https://www.danielhollcraft.com/">Daniel hollcraft</a></li>
               </ul>
             </div>
           </section>

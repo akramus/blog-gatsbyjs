@@ -1,8 +1,8 @@
 {
   "name": "akramus.github.io",
-  "description": "Akram DHAOUI Website",
+  "description": "Akram Dhaoui Website",
   "version": "1.0.0",
-  "author": "Akram DHAOUI",
+  "author": "Akram Dhaoui",
   "dependencies": {
     "axios": "^0.18.0",
     "formik": "^0.11.11",
@@ -34,7 +34,7 @@
     "prettier": "^1.11.0"
   },
   "keywords": [
-    "java","jee","react","react","kafka","spark","freelance","consultant"
+    "java","jee","react","react","kafka","spark","freelance","consultant","développeur","architecte"
   ],
   "license": "MIT",
   "main": "n/a",
