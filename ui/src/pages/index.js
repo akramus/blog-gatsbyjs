@@ -14,7 +14,7 @@ class Main extends Component {
         <section>
           <article className="container">
             <div id="homepage-description">
-              <h2>Consultant indépendant</h2>
+              <h2>Consultant, Architecte technique  & Développeur </h2>
               <h2>Java | JEE | React | Kafka | Spark </h2>              
             </div>
           </article>

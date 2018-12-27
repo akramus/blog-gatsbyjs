@@ -8,7 +8,7 @@ const NavigationBar = ({ toggleSideBar }) => (
       className="toggle"
     ></span>
     <span className="title">
-      <Link to="/">Akram DHAOUI</Link>
+      <Link to="/">Akram Dhaoui</Link>
     </span>
   </div>
 )
