@@ -1,5 +1,5 @@
 ---
-path: /blog/2-Devenir-Consultants
+path: /blog/2-Devenir-Consultant
 title: Devenir consultant en tests et recette logicielle  ?
 date: 22/07/2019
 categories: Divers
