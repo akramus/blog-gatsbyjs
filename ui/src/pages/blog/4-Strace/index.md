@@ -1,7 +1,7 @@
 ---
 path: /blog/4-Strace
 title: Strace  ?
-date: 22/07/2019
+date: A venir
 categories: debug,Linux
 ---
 # Strace ?
