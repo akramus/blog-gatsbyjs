@@ -7,9 +7,9 @@
     "static:build": "cd ui && yarn build && cd ../.."
      },
   "devDependencies": {
-    "eslint": "^4.10.0",
+    "eslint": "^6.1.0",
     "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jest": "^21.12.2",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.4.0"
@@ -20,7 +20,5 @@
   },
   
   "homepage": "https://github.com/akramus/blog-gatsbyjs#readme",
-  "dependencies": {
-    "gatsby-plugin-favicon": "^2.1.1"
-  }
+   "dependencies": {}
 }
