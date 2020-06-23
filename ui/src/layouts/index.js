@@ -45,8 +45,8 @@ export default class extends Component {
           <header>
             <span className="image avatar"><img src={avatar} alt="" /></span>
             <h1 id="logo"><Link to="/">Akram Dhaoui</Link></h1>
-            <p>Consultant, Architecte technique  & Développeur <br />
-              Java | JEE | React | Spark | Kafka
+            <p>Consultant, Architecte technique  & Devops <br />
+              Java | JEE | React | Kafka | K8s | Docker | Ansible
         </p>
           </header>
           <nav id="nav">
